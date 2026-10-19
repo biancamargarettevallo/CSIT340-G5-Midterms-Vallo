@@ -1,5 +1,3 @@
-import Hero from "./Hero"
-
 function Controls({handleStar, handleDownload, handleReport, handleReset}) {
     return(
         <div className="flex justify-center gap-4 py-6">
